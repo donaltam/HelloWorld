@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[AB_2]
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [Nama] NVARCHAR(400) NULL, 
+    [Kelamin] NVARCHAR(500) NULL
+)
