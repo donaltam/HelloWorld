@@ -67,4 +67,7 @@
     <Build Include="AA_NamaSearch.sql" />
     <Build Include="AB_2.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="TextFile1.txt" />
+  </ItemGroup>
 </Project>
