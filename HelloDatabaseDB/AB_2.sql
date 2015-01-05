@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[AB_2]
+﻿CREATE TABLE [dbo].[AB_2Mon]
 (
 	[Id] INT NOT NULL PRIMARY KEY, 
     [Nama] NVARCHAR(400) NULL, 
